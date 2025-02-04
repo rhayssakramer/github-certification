@@ -35,6 +35,6 @@ As certificações do GitHub são uma forma reconhecida pelo setor de certificar
     - Otimização do fluxo de trabalho
     - Colaboração eficiente
 
-<img src="https://github.com/rhayssakramer/github-certification/blob/main/img/img1.png" width="350">
+<center><img src="https://github.com/rhayssakramer/github-certification/blob/main/img/img1.png" width="400"></center>
 
 Com as Certificações GitHub, você pode mostrar sua expertise em tecnologias e fluxos de trabalho do GitHub. Ganhar uma Certificação GitHub lhe dá uma vantagem competitiva no mercado de trabalho, permitindo que você promova suas habilidades em um domínio específico do GitHub.
