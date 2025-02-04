@@ -6,7 +6,7 @@ Este repositório correspode a um guia para contribuir com os estudos das Certif
 Este repositório está organizado para armazenar e gerenciar todos os materiais e outros recursos para a GitHub Certification.
 
 - 📝 [Informações sobre Certificações:](https://github.com/rhayssakramer/github-certification?tab=readme-ov-file#-o-que-s%C3%A3o-e-quais-s%C3%A3o-as-certifica%C3%A7%C3%B5es) conceitos e importância das certificações.
-- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-recursos-de-estudo) links e materiais recomendados para o estudo das Certificação GitHub.
+- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-recursos-de-estudo) links e materiais recomendados para o estudo das Certificações GitHub.
 - 🔗 [Links Úteis:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial, material de grande importância para as Certificações GitHub.
 
 ### 📝 O que são e quais são as Certificações?
