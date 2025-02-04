@@ -12,10 +12,8 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
 
 
 ### 📝 O que são e quais são as Certificações?
-As certificações do GitHub são uma forma reconhecida pelo setor de certificar seu conhecimento das tecnologias do GitHub. Ele valida sua capacidade de usar o GitHub para vários fluxos de trabalho. Com as Certificações GitHub, você pode mostrar sua expertise em tecnologias e fluxos de trabalho do GitHub. Ganhar uma Certificação GitHub lhe dá uma vantagem competitiva no mercado de trabalho, permitindo que você promova suas habilidades em um domínio específico do GitHub. Por enquanto, o GitHub oferece quatro certificações:
-
-<p align="center"><img src="https://github.com/rhayssakramer/github-certification/blob/main/img/img1.png" width="600"></p>
-
+<img align="right" width="400" style="margin-left: 40;" src="https://github.com/rhayssakramer/github-certification/blob/main/img/img1.png"><p>As certificações do GitHub são uma forma reconhecida pelo setor de certificar seu conhecimento das tecnologias do GitHub. Ele valida sua capacidade de usar o GitHub para vários fluxos de trabalho. Com as Certificações GitHub, você pode mostrar sua expertise em tecnologias e fluxos de trabalho do GitHub. Ganhar uma Certificação GitHub lhe dá uma vantagem competitiva no mercado de trabalho, permitindo que você promova suas habilidades em um domínio específico do GitHub. Por enquanto, o GitHub oferece quatro certificações:</p>
+<br>
 | Nome | Descrição | Imagem |
 | :-----------------: | :-----------------------: | :----------------------: |
 | <b>GitHub Foundations Certification</b> | É uma certificação que testa seus conhecimentos sobre tópicos básicos e fundamentais do GitHub. Com o certificado você pode destacar sua compreensão dos tópicos e conceitos fundamentais de colaboração, contribuição e trabalho no GitHub. | <img width="150" src="https://github.com/user-attachments/assets/99cbcdc7-e4dc-49a8-ad3a-7b9839f68902"> |
