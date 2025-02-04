@@ -7,7 +7,7 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
 
 - 📝 [Informações sobre Certificações:](https://github.com/rhayssakramer/github-certification?tab=readme-ov-file#-o-que-s%C3%A3o-e-quais-s%C3%A3o-as-certifica%C3%A7%C3%B5es) conceitos e importância das certificações.
 - 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-recursos-de-estudo) links e materiais recomendados para o estudo das Certificação GitHub.
-- 🔗 [Links Úteis:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial (Material de grande importância para as Certificações GitHub.
+- 🔗 [Links Úteis:](https://github.com/rhayssakramer/github-certification/tree/main?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial, material de grande importância para as Certificações GitHub.
 
 ### 📝 O que são e quais são as Certificações?
 <img align="right" width="400" style="margin-left: 40;" src="https://github.com/rhayssakramer/github-certification/blob/main/img/certificacoes.png"><p>As certificações do GitHub são uma forma reconhecida pelo setor de certificar seu conhecimento das tecnologias do GitHub. Ele valida sua capacidade de usar o GitHub para vários fluxos de trabalho. Com as Certificações GitHub, você pode mostrar sua expertise em tecnologias e fluxos de trabalho do GitHub. Ganhar uma Certificação GitHub lhe dá uma vantagem competitiva no mercado de trabalho, permitindo que você promova suas habilidades em um domínio específico do GitHub. Por enquanto, o GitHub oferece quatro certificações:</p>
