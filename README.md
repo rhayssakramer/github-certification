@@ -43,12 +43,12 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para as cer
 ### ▶️ Conclusão
 Este guia serve para contribuir com os estudos das Certificações do GitHub. Explore os recursos compartilhados necessários para atender às suas necessidades.
 
-### 🔗 Créditos
+### 🖋️ Créditos
 Este repositório foi desenvolvido como guia de estudos das Certificações do [GitHub](https://github.com/).
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com o GitHub ou suas empresas associadas.*
 
-### 👩🏼‍💻 Autoria:
+### 👩🏼‍💻 Autora:
 <table style="border=0">
   <tr>
     <td align="left">
@@ -61,4 +61,4 @@ Este repositório foi desenvolvido como guia de estudos das Certificações do [
   </tr>
 </table>
 
-### <div align="center">Feito por <a href="https://github.com/rhayssakramer">@devrhakramer</a></div>
+<div align="center"><a href="https://github.com/rhayssakramer"><img src="https://github.com/user-attachments/assets/27f933bf-6bb5-418d-aa0f-842b65185a82" width="130"></a></div>
