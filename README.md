@@ -1,3 +1,5 @@
+<img src="./img/topo.png">
+
 <h1 align="center">🐙 GitHub Certification</h1>
 
 Este repositório correspode a um guia para contribuir com os estudos das Certificações do [GitHub](https://github.com/). Aqui você irá encontrará uma lista de materiais que podem ser úteis para estudar.
@@ -61,4 +63,4 @@ Este repositório foi desenvolvido como guia de estudos das Certificações do [
   </tr>
 </table>
 
-<div align="center"><a href="https://github.com/rhayssakramer"><img src="https://github.com/user-attachments/assets/27f933bf-6bb5-418d-aa0f-842b65185a82" width="130"></a></div>
+<div align="center"><a href="https://github.com/rhayssakramer"><img src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/rodape.png"></a></div>
