@@ -2,7 +2,7 @@
 
 <h1 align="center">🐙 GitHub Certification</h1>
 
-Este repositório correspode a um guia para contribuir com os estudos das Certificações do [GitHub](https://github.com/). Aqui você irá encontrará uma lista de materiais que podem ser úteis para estudar.
+Este repositório correspode a um guia para contribuir com os estudos das [Certificações do GitHub](https://github.com/). Aqui você irá encontrará uma lista de materiais que podem ser úteis para estudar.
 
 ### 🗂️ O que você encontrará aqui?
 Este repositório está organizado para armazenar e gerenciar todos os materiais e outros recursos para a GitHub Certification.
@@ -43,10 +43,10 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para as cer
 - [Artigo sobre Certificações do GitHub do Datacamp](https://www.datacamp.com/pt/blog/GitHub-certifications)
 
 ## ▶️ Conclusão
-Este guia serve para contribuir com os estudos das Certificações do GitHub. Explore os recursos compartilhados necessários para atender às suas necessidades.
+Este guia serve para contribuir com os estudos das [Certificações do GitHub](https://github.com/). Explore os recursos compartilhados necessários para atender às suas necessidades.
 
 ## 🔗 Créditos
-Este repositório foi desenvolvido como guia de estudos das Certificações do [GitHub](https://github.com/).
+Este repositório foi desenvolvido como guia de estudos das [Certificações do GitHub](https://github.com/).
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com o GitHub ou suas empresas associadas.*
 
