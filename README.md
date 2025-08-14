@@ -42,15 +42,15 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para as cer
 - [Perguntas Frequentes](https://examregistration.github.com/faq)
 - [Artigo sobre Certificações do GitHub do Datacamp](https://www.datacamp.com/pt/blog/GitHub-certifications)
 
-### ▶️ Conclusão
+## ▶️ Conclusão
 Este guia serve para contribuir com os estudos das Certificações do GitHub. Explore os recursos compartilhados necessários para atender às suas necessidades.
 
-### 🖋️ Créditos
+## 🔗 Créditos
 Este repositório foi desenvolvido como guia de estudos das Certificações do [GitHub](https://github.com/).
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com o GitHub ou suas empresas associadas.*
 
-### 👩🏼‍💻 Autora:
+## 👩🏼‍💻 Autora:
 <table style="border=0">
   <tr>
     <td align="left">
